@@ -45,6 +45,9 @@ composer install
 ### 3. Install frontend dependencies
 ```bash
 npm install
+---
+Install VercelAI
+npm install ai
 ```
 ---
 
