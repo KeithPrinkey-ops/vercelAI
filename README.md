@@ -46,7 +46,6 @@ composer install
 ```bash
 npm install
 ---
-Install VercelAI
 npm install ai
 ```
 ---
